@@ -1,0 +1,16 @@
+{
+  "translation": {
+    "common": {
+      "loading": "加载中...",
+      "welcome": "欢迎来到现金流大富翁"
+    },
+    "finance": {
+      "income": "收入",
+      "expenses": "支出",
+      "cashflow": "月现金流",
+      "assets": "资产",
+      "liabilities": "负债",
+      "cash": "现金"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "translation": {
+    "common": {
+      "loading": "Loading...",
+      "welcome": "Welcome to Cashflow Monopoly"
+    },
+    "finance": {
+      "income": "Income",
+      "expenses": "Expenses",
+      "cashflow": "Cashflow",
+      "assets": "Assets",
+      "liabilities": "Liabilities",
+      "cash": "Cash"
+    }
+  }
+}
